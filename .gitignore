@@ -1,0 +1,7 @@
+# Exclude the original OOTDiffusion project
+OOTDiffusion/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
